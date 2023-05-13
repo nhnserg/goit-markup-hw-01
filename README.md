@@ -1,2 +1,2 @@
 # FullStuck
-  goit-homework-01
+index.html
